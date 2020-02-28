@@ -1,0 +1,22 @@
+{
+  "name": "0.0.1",
+  "version": "0.0.1",
+  "description": "Attendance Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trtlleeseattleacademy/2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trtlleeseattleacademy/2023/issues"
+  },
+  "homepage": "https://github.com/trtlleeseattleacademy/2023#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
